@@ -1,3 +1,4 @@
+@import "primer-labels/index.scss";
 # DeepNets-onWikiData 
 *********Basic deep learning implementations for toy problems using Wiki Data*********
 <span class="label label-theme"> Open Source</span> <span class="label label-theme"> Open Source</span>
