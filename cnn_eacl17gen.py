@@ -62,7 +62,7 @@ class Convolution(object):
 
             hist = model.fit(X_train, y_train[target_class],
                  validation_data=(X_val, y_val[target_class]),
-                 batch_size=32, epochs=5, shuffle=True)
+                 batch_size=32, epochs=10, shuffle=True)
             return(model)
 #-------------------------------------------------------------------------------------------------------------------
 
