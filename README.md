@@ -30,13 +30,15 @@ This is a sequence-to-sequence problem addressed in the EACL paper cited above.
 We will soon upload a simple implementation for this problem.
 
 ## Requirements
+~~~~
 1. Tensorflow
 2. Python3
 3. Numpy
-
+~~~~
 ## Run
-python cnn_eacl17gen.py --data_path xxx --pre_embedding_path xxx --dim_embedding xxx --target_class xx
-python rnn_eacl17gen.py --data_path xxx --pre_embedding_path xxx --dim_embedding xxx --target_class xx
-
+~~~~
+> python cnn_eacl17gen.py --data_path xxx --pre_embedding_path xxx --dim_embedding xxx --target_class xx
+> python rnn_eacl17gen.py --data_path xxx --pre_embedding_path xxx --dim_embedding xxx --target_class xx
+~~~~
  
 
