@@ -29,3 +29,12 @@ The file cnn_eacl17gen.py solves the problem of predicting any single attribute 
 This is a sequence-to-sequence problem addressed in the EACL paper cited above.
 We will soon upload a simple implementation for this problem.
 
+## Requirements
+Tensorflow
+Python3
+Numpy
+
+## Run
+python cnn.py
+
+
