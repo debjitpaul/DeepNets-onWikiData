@@ -35,6 +35,8 @@ We will soon upload a simple implementation for this problem.
 3. Numpy
 
 ## Run
-python cnn_eacl.py --data_path --pre_embedding_path --dim_embedding --target_class
+python cnn_eacl17gen.py --data_path xxx --pre_embedding_path xxx --dim_embedding xxx --target_class xx
+python rnn_eacl17gen.py --data_path xxx --pre_embedding_path xxx --dim_embedding xxx --target_class xx
+
  
 
